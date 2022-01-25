@@ -6,7 +6,7 @@ páginas / componentes do tipo Stack. Foi utilizado a biblioteca React Navigatio
 ## Dependências do projeto:
 
 | Dependência |  Versão  |
-| ------------------- | ------------------- |
+| ------------------- | :---: |
 | @react-navigation/native | ^6.0.6 |
 | @react-navigation/native-stack | ^6.2.5 |
 | react-native-safe-area-context | ^3.3.2 |
