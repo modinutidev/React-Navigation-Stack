@@ -20,10 +20,10 @@ páginas / componentes do tipo Stack. Foi utilizado a biblioteca React Navigatio
 # Criação do projeto:
 $ npx react-native init project_react_navigation
 
-# Instalação da biblioteca React Navigator:
+# Instalação da biblioteca React Navigation:
 $ npm install @react-navigation/native 
 
-# Instalação das dependências do React Navigator
+# Instalação das dependências do React Navigation:
 $ npm install react-native-screens react-native-safe-area-context
 
 # Para rodar o projeto no Android:
