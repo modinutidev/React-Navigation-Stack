@@ -1,4 +1,4 @@
-# Navegação Stack utilizando React Navigator
+# Navegação Stack utilizando React Navigation
 
 Este projeto foi desenvolvido com fins didáticos, nele é exemplificado de forma simples o funcionamento da navegação entre 
 páginas / componentes do tipo Stack. Foi utilizado a biblioteca React Navigation.
