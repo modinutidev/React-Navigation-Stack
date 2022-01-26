@@ -26,5 +26,8 @@ $ npm install @react-navigation/native
 # Instalação das dependências do React Navigation:
 $ npm install react-native-screens react-native-safe-area-context
 
+# Instalação da biblioteca Native Stack
+$ npm install @react-navigation/native-stack
+
 # Para rodar o projeto no Android:
 $ npx react-native run-android
